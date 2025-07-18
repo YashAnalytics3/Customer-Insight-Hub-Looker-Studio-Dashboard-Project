@@ -2,9 +2,6 @@
 
 This repository showcases a data visualization project built using **Google Looker Studio (formerly Data Studio)**. The dashboard is based on a fictional transactional database and provides meaningful business insights across sales, products, customers, and employee performance.
 
-## Link :
-https://lookerstudio.google.com/reporting/663cc4a1-00e5-4fbc-b166-5c8d8222fac2
-
 ## 📊 Dashboard Overview
 
 The interactive dashboard includes the following KPIs and visualizations:
